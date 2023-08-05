@@ -1,0 +1,20 @@
+body{
+background: rgb(184, 180, 174);
+
+}
+P{
+    color: rgb(2, 43, 29);
+}
+.vermelho{
+    color: red;
+}
+.center{
+    text-align: center;
+}
+.font-30{
+    font-size: 20px;
+}
+#teste{
+    color: blue;
+    background: black;
+}
